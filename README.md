@@ -27,11 +27,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=GitPractice&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/GitPractice)
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=58a6ff&icon_color=A4A4A4) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=58a6ff&icon_color=A4A4A4)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=58a6ff&icon_color=A4A4A4) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=58a6ff&icon_color=A4A4A4)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lleks&bg_color=fff0&hide_border=true&line=58a6ff&color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=0366d6&icon_color=0366d6) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=0366d6&icon_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lleks&bg_color=fff0&hide_border=true&line=0366d6&color=0366d6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <details>
