@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=new-automation-practical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=new-automation-practical&theme=dark)](https://github.com/lleks/new-automation-practical)
 
 
 
