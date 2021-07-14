@@ -18,8 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=banking-qa-web-project&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/banking-qa-web-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=GymnasticSchoolWebProject&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/GymnasticSchoolWebProject)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=SQL-training-session&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/SQL-training-session)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=sql-ex-training-session-2&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/sql-ex-training-session-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=SQL-training-session&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/SQL-training-session) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=sql-ex-training-session-2&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/sql-ex-training-session-2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=new-automation-practical&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/new-automation-practical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=Android-Studio-Practice&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/Android-Studio-Practice)
@@ -27,7 +26,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=w3schools-test.github.io&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/w3schools-test.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=GitPractice&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/GitPractice)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&theme=dark&include_all_commits=true&custom_title=GitHub_Stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=fff0&text_color=A4A4A4)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats)
 
 
 <details>
