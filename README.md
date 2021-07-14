@@ -1,6 +1,6 @@
 ### Hi there, I'm Aleks! 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=SoapUI-Training-Session&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/SoapUI-Training-Session)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=SoapUI-Training-Session&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/SoapUI-Training-Session)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=Postman-Automation-GoogleAPI&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/Postman-Automation-GoogleAPI)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=guru99-Poatman-practice-automation&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/guru99-Poatman-practice-automation)
@@ -25,7 +25,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=w3schools-test.github.io&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/w3schools-test.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=GitPractice&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/GitPractice)
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=fff0&text_color=A4A4A4)](https://github.com/anuraghazra/github-readme-stats)
 
