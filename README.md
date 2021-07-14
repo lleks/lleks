@@ -27,9 +27,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lleks&repo=GitPractice&bg_color=fff0&text_color=A4A4A4)](https://github.com/lleks/GitPractice)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=fff0&text_color=A4A4A4)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats)
 
 
 <details>
