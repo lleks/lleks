@@ -20,7 +20,7 @@
 [<img align="Left" alt="confluence" height="40" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png">](https://www.atlassian.com/software/confluence "Confluence")
 </br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=447bbb&icon_color=447bbb) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleks&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=447bbb&icon_color=447bbb)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=447bbb&icon_color=447bbb)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleks&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=447bbb&icon_color=447bbb)
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lleks&bg_color=fff0&hide_border=true&line=447bbb&color=447bbb)
 
