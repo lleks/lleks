@@ -18,6 +18,7 @@
 [<img align="Left" alt="github" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/800px-Font_Awesome_5_brands_github.svg.png">](https://github.com/ "GitHub")
 [<img align="Left" alt="jira" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira "Jira")
 [<img align="Left" alt="confluence" height="40" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png">](https://www.atlassian.com/software/confluence "Confluence")
+[<img align="Left" alt="trello" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Antu_trello.svg/240px-Antu_trello.svg.png">](https://trello.com/ "Trello")
 [<img align="Left" alt="photoshop" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/246px-Adobe_Photoshop_CC_icon.svg.png">](	www.adobe.com/products/photoshop.html "Adobe Photoshop")
 </br></br>
 
