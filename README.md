@@ -1,12 +1,12 @@
 ### Hi there, I'm Aleks! 👋
 
-### Platforms:
+### 💻 Platforms:
 [<img align="Left" alt="windowsos" height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/240px-Windows_logo_-_2021.svg.png">](https://www.microsoft.com "WindowsOS")
 [<img align="Left" alt="linuxos" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png">](https://www.kernel.org "LinuxOS")
 [<img align="Left" alt="android os" height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/800px-Android_robot_%282014-2019%29.svg.png">](https://developer.android.com "AndroidOS")
 </br></br>
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 [<img align="Left" alt="html5" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">](https:/https://www.w3.org/html "HTML5")
 [<img align="Left" alt="css3" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png">](https://www.w3.org/Style/CSS/ "CSS3")
 [<img align="Left" alt="sql" height="40" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png">](https://www.iso.org/standard/63555.html "SQL")
@@ -18,7 +18,13 @@
 [<img align="Left" alt="github" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/800px-Font_Awesome_5_brands_github.svg.png">](https://github.com/ "GitHub")
 [<img align="Left" alt="jira" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira "Jira")
 [<img align="Left" alt="confluence" height="40" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png">](https://www.atlassian.com/software/confluence "Confluence")
+[<img align="Left" alt="photoshop" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/246px-Adobe_Photoshop_CC_icon.svg.png">](	www.adobe.com/products/photoshop.html "Adobe Photoshop")
 </br></br>
+
+### 📚 I’m currently learning:
+[<img align="Left" alt="jenkins" height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">](https://www.jenkins.io/ "Jenkins")
+[<img align="Left" alt="selenium" height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">](https://www.selenium.dev/ "Selenium")
+
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lleks&bg_color=fff0&hide_border=true&line=447bbb&color=447bbb)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=447bbb&icon_color=447bbb)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleks&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=447bbb&icon_color=447bbb)
