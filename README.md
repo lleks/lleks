@@ -16,15 +16,9 @@
 [<img align="Left" alt="charles" height="40" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png">](https://www.charlesproxy.com/ "Charles")
 [<img align="Left" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://git-scm.com/ "Git")
 [<img align="Left" alt="github" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/800px-Font_Awesome_5_brands_github.svg.png">](https://github.com/ "GitHub")
-</br></br>
-
-
 [<img align="Left" alt="jira" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira "Jira")
 [<img align="Left" alt="confluence" height="40" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png">](https://www.atlassian.com/software/confluence "Confluence")
 </br></br>
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=447bbb&icon_color=447bbb) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleks&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=447bbb&icon_color=447bbb)
 
