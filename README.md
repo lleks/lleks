@@ -12,12 +12,12 @@
 [<img align="Left" alt="sql" height="40" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png">](https://www.iso.org/standard/63555.html "SQL")
 [<img align="Left" alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">](https://www.postman.com/ "Postman")
 [<img align="Left" alt="soapui" height="40" src="https://www.airslate.com/preview/explorebots/development/soapui.svg">](https://www.soapui.org/ "SoapUI")
-
 [<img align="Left" alt="fiddler" height="40" src="https://1.bp.blogspot.com/-wPCmBo9VAHU/X6RFiiawFkI/AAAAAAAAFlY/7Crbsk5Ele4OWp8FL35HBr-Fr7DT0A9LQCLcBGAsYHQ/s200/Fiddler-Everywhere-Icon.png">](https://www.telerik.com/fiddler "Fiddler")
 [<img align="Left" alt="charles" height="40" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png">](https://www.charlesproxy.com/ "Charles")
-
 [<img align="Left" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">](https://git-scm.com/ "Git")
 [<img align="Left" alt="github" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/800px-Font_Awesome_5_brands_github.svg.png">](https://github.com/ "GitHub")
+</br></br>
+
 
 [<img align="Left" alt="jira" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira "Jira")
 [<img align="Left" alt="confluence" height="40" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png">](https://www.atlassian.com/software/confluence "Confluence")
