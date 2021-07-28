@@ -16,20 +16,10 @@
 [<img align="Left" alt="fiddler" height="40" src="https://1.bp.blogspot.com/-wPCmBo9VAHU/X6RFiiawFkI/AAAAAAAAFlY/7Crbsk5Ele4OWp8FL35HBr-Fr7DT0A9LQCLcBGAsYHQ/s200/Fiddler-Everywhere-Icon.png">](https://www.telerik.com/fiddler "Fiddler")
 [<img align="Left" alt="charles" height="40" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png">](https://www.charlesproxy.com/ "Charles")
 [<img align="Left" alt="postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">](https://www.postman.com/ "Postman")
-
-
-</br></br></br>
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
+[<img align="Left" alt="soapui" height="40" src="https://www.airslate.com/preview/explorebots/development/soapui.svg">](https://www.soapui.org/ "SoapUI")
+[<img align="Left" alt="jira" height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">](https://www.atlassian.com/software/jira "Jira")
+[<img align="Left" alt="confluence" height="40" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png">](https://www.atlassian.com/software/confluence "Confluence")
+</br></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=447bbb&icon_color=447bbb) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleks&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=447bbb&icon_color=447bbb)
 
