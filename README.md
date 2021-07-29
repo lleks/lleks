@@ -25,6 +25,7 @@
 ### 📚 I’m currently learning:
 [<img align="Left" alt="jenkins" height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">](https://www.jenkins.io/ "Jenkins")
 [<img align="Left" alt="selenium" height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">](https://www.selenium.dev/ "Selenium")
+[<img align="Left" alt="jmeter" height="40" src="https://jmeter.apache.org/images/jmeter_square.png">](https://jmeter.apache.org/ "Apache JMeter")
 
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lleks&bg_color=fff0&hide_border=true&line=447bbb&color=447bbb)
