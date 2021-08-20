@@ -1,5 +1,10 @@
 ### Hi there, I'm Aleks! 👋
 
+- 🌱 I’m currently learning QA processes in SDLC
+- 🤔 I’m looking for help with Selenium WebDriver!
+- 💬 Ask me about whatever you want!
+- ⚡ Fun fact: The original name for the search engine Google was BackRub!
+
 <h3 align="left">💻 Platforms:</h3>
 <p align="left">
   <span><a href="https://www.microsoft.com" target="_blank" alt="windowsos" title="WindowsOS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/240px-Windows_logo_-_2021.svg.png" height="38"/></a></span>&nbsp&nbsp
