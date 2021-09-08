@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with Selenium WebDriver!
 - 💬 Ask me about whatever you want!
 - ⚡ Fun fact: The original name for the search engine Google was BackRub!
-
+***
 <h3 align="left">💻 Platforms:</h3>
 <p align="left">
   <span><a href="https://www.microsoft.com" target="_blank" alt="windowsos" title="WindowsOS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/240px-Windows_logo_-_2021.svg.png" height="38"/></a></span>&nbsp&nbsp
@@ -38,8 +38,7 @@
   <span><a href="https://www.selenium.dev" target="_blank" alt="selenium" title="Selenium WebDriver"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40"/></a></span>&nbsp;&nbsp;
   <span><a href="https://www.jenkins.io" target="_blank" alt="jenkins" title="Jenkins"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40"/></a></span>
   </p>
-
-
+  <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lleks&show_icons=true&h&bg_color=fff0&text_color=A4A4A4&include_all_commits=true&custom_title=GitHub_Stats&hide_border=true&title_color=447bbb&icon_color=447bbb)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleks&layout=compact&bg_color=fff0&text_color=A4A4A4&hide_border=true&title_color=447bbb&icon_color=447bbb)
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lleks&bg_color=fff0&hide_border=true&line=447bbb&color=447bbb)
