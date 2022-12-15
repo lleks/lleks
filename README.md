@@ -1,6 +1,6 @@
 ### Hi there, I'm Aleks! 👋
 
-- 🌱 I’m currently learning QA processes in SDLC
+- 🌱 I’m a QA guy in the teck company!
 - 🤔 I’m looking for help with Selenium WebDriver!
 - 💬 Ask me about whatever you want!
 - ⚡ Fun fact: The original name for the search engine Google was BackRub!
